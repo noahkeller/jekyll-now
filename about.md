@@ -8,8 +8,10 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Noah Kelelr. I am an experienced Audio Engineer and Sound Designer with a demonstrated history of working in professional environments. 
+
+I am a firm believer in collaboration and asking questions. There are many different sides to a project, so strong communication skills are necessary for ends to properly meet. In order to achieve greatness and go above-and-beyond, I ask questions and make sure my teammates understand what is going on at all times. Nobody should be left behind, and everybody should give it their all.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[me@noahdkeller.com](mailto:email@domain.com)
